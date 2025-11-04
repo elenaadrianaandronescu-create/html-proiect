@@ -1,0 +1,1 @@
+function alerta(){alert('Salut! Alerta.')}

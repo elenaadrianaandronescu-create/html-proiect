@@ -1,0 +1,21 @@
+html{scroll-behavior:smooth}body{margin:0;font:16px/1.5 Arial}main,.wrap{max-width:980px;margin:auto;padding:12px}
+nav ul{list-style:none;display:flex;flex-wrap:wrap;gap:8px;padding:0}nav a{text-decoration:none;border:1px solid #ddd;border-radius:6px;padding:6px}
+nav a:hover{background:#eef}
+body.c{background:#fff8e1}body.i{background:url('assets/bg.jpg') repeat}
+.serif{font-family:Georgia} .mono{font-family:'Courier New'} .sans{font-family:Arial}
+.r{color:#c33}.b{color:#29b}.g{color:#2a6}
+.sub{vertical-align:sub}.sup{vertical-align:super}.big{font-size:1.5em}.small{font-size:.85em}.tt{font-family:'Courier New'}
+.st{ text-align:left}.dr{text-align:right}.ce{text-align:center}
+hr.n{border:0;border-top:1px solid #888}hr.g{border:0;border-top:6px solid #222}hr.s{border:0;height:0;box-shadow:0 8px 8px -8px #0006 inset}
+hr.c{border:0;height:4px;background:linear-gradient(90deg,#e44,#84a,#39f)}hr.z{width:60%;margin-left:0;height:3px;background:#2c6;border:0}
+img{max-width:100%}.L{float:left;margin:0 10px 6px 0}.R{float:right;margin:0 0 6px 10px}
+table{border-collapse:collapse;width:100%}td,th{border:2px solid #444;padding:6px}th{background:#eef}table.bg{background:url('assets/bg.jpg')}
+ul.disc{list-style:disc}ul.sq{list-style:square}ul.img{list-style-image:url('assets/b.png');padding-left:24px}
+ol.rom{list-style:lower-roman}ol.let{list-style:upper-alpha}
+a.link{display:block;border-left:3px solid #ddd;padding:4px}a.link:hover{border-color:#39f}
+.if{position:relative;padding-bottom:56%;height:0;overflow:hidden}.if iframe{position:absolute;inset:0;border:0;width:100%;height:100%}
+.imfix{position:fixed;right:12px;bottom:12px;width:72px;opacity:.85;border:2px solid #999;border-radius:8px}
+@keyframes pulse{50%{transform:scale(1.05)}}.anim{display:inline-block;animation:pulse 2s infinite}
+@keyframes slide{from{transform:translateX(-16px);opacity:.2}to{transform:none;opacity:1}}.ain{animation:slide .7s ease-out}
+section article p span.imp{color:#e44;text-decoration:underline}
+#titlu{font-size:28px}.hl{background:#fff3cd}
